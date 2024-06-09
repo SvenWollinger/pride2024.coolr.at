@@ -1,4 +1,4 @@
-package io.wollinger.colors
+package at.coolr.pride2024
 
 import kotlinx.browser.document
 import kotlinx.browser.window

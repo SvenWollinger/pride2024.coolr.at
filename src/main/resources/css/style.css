@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Roboto Mono";
+    font-display: swap;
+    src: url("../fonts/RobotoMono-Medium.ttf") format("truetype");
+}
+
+body {
+    font-family: "Roboto Mono", monospace;
+    margin: 0px;
+}

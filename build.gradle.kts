@@ -10,7 +10,7 @@ plugins {
     kotlin("plugin.serialization") version "1.9.21"
 }
 
-group = "io.wollinger.colors"
+group = "at.coolr.pride2024"
 version = "0.0.1"
 
 repositories {
